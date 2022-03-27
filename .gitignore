@@ -8,7 +8,7 @@ Google_Search_Nearby.ipynb
 WeatherPy.ipynb
 PracticeAPI.ipynb
 VacationPY.ipynb
-weather_data.dir
+weather_data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
