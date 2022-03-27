@@ -1,3 +1,14 @@
+# Adding config.py file.
+config.py
+
+#Additional Files
+
+random_numbers.ipynb
+Google_Search_Nearby.ipynb
+WeatherPy.ipynb
+PracticeAPI.ipynb
+VacationPY.ipynb
+weather_data.dir
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
